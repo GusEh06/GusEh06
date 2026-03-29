@@ -33,5 +33,10 @@ I am a tech-driven developer who thrives on solving complex challenges. Speciali
 ---
 
 ### 📈 GitHub Stats
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GusEh06&show_icons=true&theme=radical" alt="GusEh06's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GusEh06&theme=radical" alt="GusEh06's GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusEh06&layout=compact&theme=radical" alt="Top Languages" />
+</div>
